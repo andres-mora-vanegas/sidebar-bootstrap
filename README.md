@@ -3,4 +3,4 @@ Beautiful sidebar using bootstrap
 
 ## see the online versión
 
-https://andyman1907.github.io/sidebar-bootstrap/
+https://andres-mora-vanegas.github.io/sidebar-bootstrap/
